@@ -1,0 +1,32 @@
+[Main Page]
+1. HERO_BG
+   - Description: 전문적인 마케팅 회의를 진행하는 모습, 신뢰감 있는 푸른 톤 보정.
+   - Prompt: professional business meeting in a modern office, blue tone filter, trustworthy atmosphere, high quality, 4k
+
+2. TRUST_ICON_1, 2, 3
+   - Description: 성장, 파트너십, 인증을 상징하는 깔끔한 3D 아이콘 또는 이미지.
+   - Prompt: 3d icon of growth chart, handshake, certificate award, minimal design, white background
+
+[Sub Page 1 - Service]
+3. SERVICE_IMAGES (VIRAL, BLOG, PRESS)
+   - Description: 각 서비스(SNS, 블로그, 뉴스)를 상징하는 작업 환경 이미지.
+   - Prompt: close up of hands typing on laptop, smartphone screen with social media app, newspaper layout on desk, professional photography
+
+[Sub Page 2 - Cases]
+4. CASE_IMAGES
+   - Description: 성공적인 비즈니스 현장(식당, 미용실, 쇼핑몰 물류).
+   - Prompt: busy restaurant with customers, modern beauty salon interior, boxes ready for shipping in warehouse, bright and successful vibe
+
+[Sub Page 3 - Company]
+5. COMPANY_CEO
+   - Description: 정장을 입은 신뢰감 있는 남성 CEO의 포트레이트.
+   - Prompt: professional portrait of a middle-aged asian male ceo in a suit, confident smile, blurred office background
+
+6. COMPANY_OFFICE
+   - Description: 활기차게 일하는 드림투유 직원들의 사무실 전경.
+   - Prompt: modern open plan office, people working at desks, bright lighting, team collaboration
+
+[Sub Page 4 - Contact]
+7. CONTACT_BG
+   - Description: 친절하게 전화를 받는 상담원의 모습, 아웃포커싱 배경.
+   - Prompt: customer service representative on phone, headset, smiling, blurred background, warm lighting
